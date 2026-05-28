@@ -46,6 +46,7 @@ docker run -d -p 8010:8080 -t ultimate-cicd-pipeline:v1
 
 Hurray !! Access the application on `http://<ip-address>:8010`
 
+<img width="1920" height="445" alt="image" src="https://github.com/user-attachments/assets/0a6bb1ac-fd66-46b7-9b26-4caf342da3b9" />
 
 ## Next Steps
 
