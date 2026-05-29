@@ -79,5 +79,6 @@ Hurray !! Now you can access the `SonarQube Server` on `http://<ip-address>:9000
 
 <img width="1916" height="889" alt="image" src="https://github.com/user-attachments/assets/c528384e-cd6a-4faa-a871-906238b7e711" />
 
+<img width="854" height="205" alt="image" src="https://github.com/user-attachments/assets/aca1ed46-e29e-4bbf-95eb-daa92a2ec948" />
 
 
