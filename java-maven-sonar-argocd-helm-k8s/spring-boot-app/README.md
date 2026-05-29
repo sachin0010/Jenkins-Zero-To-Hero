@@ -73,3 +73,11 @@ cd /home/sonarqube/sonarqube-10.4.1.88267/bin/linux-x86-64
 Hurray !! Now you can access the `SonarQube Server` on `http://<ip-address>:9000` 
 
 
+#using JenkinsFile and ArgoCD
+<img width="1294" height="462" alt="image" src="https://github.com/user-attachments/assets/01d2047c-f94b-482b-a172-c1f008914a23" />
+
+
+<img width="1916" height="889" alt="image" src="https://github.com/user-attachments/assets/c528384e-cd6a-4faa-a871-906238b7e711" />
+
+
+
